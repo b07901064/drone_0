@@ -13,7 +13,8 @@
 # 并且程序会退出
 
 from djitellopy import Tello
-import cv2, math, time
+import math, time
+from cv2 import cv2
 
 tello = Tello()
 tello.connect()
