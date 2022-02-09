@@ -1,6 +1,6 @@
 # DJITelloPy Practice
 #### sources: 
-https://github.com/damiafuentes/DJITelloPy 
+https://github.com/damiafuentes/DJITelloPy  \
 https://www.computervision.zone/courses/drone-programming-course/
 ## [中文文档 (Chinese version of this readme)](README_CN.md)
 
